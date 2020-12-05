@@ -28,7 +28,7 @@ All  teams  can  choose  between  any  of  the  following  controller  synthesis
 
 •Perform Cohen-Coon experiments on the real system to tune two SISO PI and PID controllersfor  the  system.   You  may  choose  which  controller  modes  (P/PI/PID)  to  analyze..   Then,analyze their performance for set point tracking for both process outputs.
 
-•Derive two SISO ISE-near optimal controllers for this system.  Then,  analyze their perfor-mance for set point tracking for both process outputs.  Examine the controller performancefor at least two different values ofλ.
+•Derive two SISO ISE-near optimal controllers for this system.  Then,  analyze their perfor-mance for set point tracking for both process outputs.  Examine the controller performancefor at least two different values of λ.
 
 •Develop an optimization problem formulation for the model predictive control of this process.Then, analyze its performance for set point tracking for both process outputs.
 
@@ -74,7 +74,7 @@ Relevant Process Information
 
 •Nominal outlet concentration of A: 1.396 M
 
-•Inlet concentration ofBis 1 M, inlet concentration of A is negligible.
+•Inlet concentration of B is 1 M, inlet concentration of A is negligible.
 
 •Inlet temperature is 373 K.
 
